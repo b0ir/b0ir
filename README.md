@@ -1,7 +1,15 @@
-👋hi
+ 
+## 👋 hi!
 
+Full-stack developer focused on QA automation, CI/CD and AI tools integration.
 
-<!---
-b0ir/b0ir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Stack
+**Testing & Automation** — Cypress, Playwright, PyTest  
+**Frontend** — React, TypeScript  
+**Backend** — Python, FastAPI  
+**CI/CD** — GitHub Actions, Docker  
+**AI Tools** — Claude Code, Cursor, OpenClaw  
+
+## Currently
+- Working on [VisualLens](https://github.com/b0ir/visual-lens) (AI-powered visual regression testing)
+- Open to new opportunities — [LinkedIn](https://linkedin.com/in/benjamín-aros-báez-966519231)
